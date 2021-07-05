@@ -1,4 +1,4 @@
-const Employee = require("../lib/Employee");
+const Employee = require("../../homework8/teamProfileGenerator/lib/Employee");
 
 test("Starting employee class", () => {
   const event = new Employee();
